@@ -1,6 +1,7 @@
 {
-    "_template": "/tmp/64b50113-5142-46cd-b8b8-5cb530474590/template",
-    "access": "fp-mt",
+
+    "_template": "https://github.com/fp-mt-test-org/template-java-kotlin-library",
+
     "artifact_id": "java-kotlin-lib-test-okriQ",
     "component_id": "java-kotlin-lib-test-okriQ",
     "description": "This project was created from the template-java-kotlin-library template.",
